@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\modul2_1302204070\modul2_1302204070\bin\Debug\modul2_1302204070.exe.config
+C:\Users\Lenovo\source\repos\modul2_1302204070\modul2_1302204070\bin\Debug\modul2_1302204070.exe
+C:\Users\Lenovo\source\repos\modul2_1302204070\modul2_1302204070\bin\Debug\modul2_1302204070.pdb
+C:\Users\Lenovo\source\repos\modul2_1302204070\modul2_1302204070\obj\Debug\modul2_1302204070.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\modul2_1302204070\modul2_1302204070\obj\Debug\modul2_1302204070.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\modul2_1302204070\modul2_1302204070\obj\Debug\modul2_1302204070.Form1.resources
+C:\Users\Lenovo\source\repos\modul2_1302204070\modul2_1302204070\obj\Debug\modul2_1302204070.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\modul2_1302204070\modul2_1302204070\obj\Debug\modul2_1302204070.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\modul2_1302204070\modul2_1302204070\obj\Debug\modul2_1302204070.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\modul2_1302204070\modul2_1302204070\obj\Debug\modul2_1302204070.exe
+C:\Users\Lenovo\source\repos\modul2_1302204070\modul2_1302204070\obj\Debug\modul2_1302204070.pdb
